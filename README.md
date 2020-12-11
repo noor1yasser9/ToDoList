@@ -6,5 +6,5 @@ You will also add delete and update functions to allow the user to delete and up
 Optional: you can also add a search box to allow the user to search the existing database by title.
 After completing this assignment you should better understand how to use the SQLite database to save your app data.
 
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/LfURA_YXh0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="video_container">
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LfURA_YXh0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
