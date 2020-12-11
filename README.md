@@ -6,4 +6,4 @@ You will also add delete and update functions to allow the user to delete and up
 Optional: you can also add a search box to allow the user to search the existing database by title.
 After completing this assignment you should better understand how to use the SQLite database to save your app data.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=LfURA_YXh0U&ab_channel=OmarAlbelbaisy)
+[![Watch the video](https://user-images.githubusercontent.com/41232970/101929848-0c4cb980-3be0-11eb-8484-50285dec1823.png)](https://www.youtube.com/watch?v=LfURA_YXh0U&ab_channel=OmarAlbelbaisy)
