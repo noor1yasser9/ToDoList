@@ -7,4 +7,5 @@ Optional: you can also add a search box to allow the user to search the existing
 After completing this assignment you should better understand how to use the SQLite database to save your app data.
 
 <figure class="video_container">
-<iframe width="853" height="480" src="https://www.youtube.com/embed/LfURA_YXh0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.youtube.com/watch?v=LfURA_YXh0U&ab_channel=OmarAlbelbaisy" style="border: 1px solid black"></iframe>
+</figure>
