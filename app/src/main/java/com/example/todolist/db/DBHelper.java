@@ -52,7 +52,6 @@ public class DBHelper extends SQLiteOpenHelper {
         cv.put(ToDoItem.ToDoTable.PRIORITY, toDoItem.getPriority().toString());
         cv.put(ToDoItem.ToDoTable.STATUS, toDoItem.getStatus().toString());
         cv.put(ToDoItem.ToDoTable.DATE, toDoItem.getDate().toString());
-
         return dbWrite.insert(ToDoItem.ToDoTable.TABLE_NAME, null, cv) > 0;
     }
 
