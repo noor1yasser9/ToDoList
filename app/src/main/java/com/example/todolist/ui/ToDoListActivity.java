@@ -206,9 +206,6 @@ public class ToDoListActivity extends ListActivity {
         Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT);
         intent.addCategory(Intent.CATEGORY_OPENABLE);
         intent.setType("application/octet-stream");
-
-//       ContextWrapper.getFilesDir();
-
         intent.putExtra(Intent.EXTRA_TITLE, "databases");
         startActivityForResult(intent, PICK_PDF_FILE);
     }
